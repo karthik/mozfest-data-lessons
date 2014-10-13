@@ -2,13 +2,14 @@
 
 TBD
 
-__Who's involved?__
+__Who's facilitating/organizing?__
 
 Karthik Ram  
 Aleksandra Pawlik  
 Rob Davey  
 Milena Marin  
 Billy Meinke  
+Jeramiah Ory
 
 __Outcomes__
 
