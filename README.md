@@ -9,7 +9,7 @@ Aleksandra Pawlik
 Rob Davey  
 Milena Marin  
 Billy Meinke  
-Jeramiah Ory
+Jeramia Ory
 
 __Outcomes__
 
