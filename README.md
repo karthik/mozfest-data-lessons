@@ -11,6 +11,14 @@ Milena Marin
 Billy Meinke  
 Jeramia Ory
 
+_Setup_
+
+Please see the session leaders for IPython and R environments if you need one for the session.
+
+For R, login here: [http://rstudio.ropensci.org/auth-sign-in](http://rstudio.ropensci.org/auth-sign-in) (see Karthik for login information)
+
+---
+
 __Outcomes__
 
 TBD
