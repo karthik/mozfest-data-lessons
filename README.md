@@ -17,6 +17,8 @@ Please see the session leaders for IPython and R environments if you need one fo
 
 For R, login here: [http://rstudio.ropensci.org/auth-sign-in](http://rstudio.ropensci.org/auth-sign-in) (see Karthik for login information)
 
+For IPython, login here: [https://tmpnb.org](https://tmpnb.org)
+
 ---
 
 __Outcomes__
