@@ -9,7 +9,6 @@ Aleksandra Pawlik
 Rob Davey  
 Milena Marin  
 Billy Meinke  
-Jeramia Ory
 
 _Setup_
 
@@ -18,6 +17,9 @@ Please see the session leaders for IPython and R environments if you need one fo
 For R, login here: [http://rstudio.ropensci.org/auth-sign-in](http://rstudio.ropensci.org/auth-sign-in) (see Karthik for login information)
 
 For IPython, login here: [https://tmpnb.org](https://tmpnb.org)
+
+For sharing notes and links please use the Etherpad: 
+[https://etherpad.mozilla.org/mozscience-datalesson](https://etherpad.mozilla.org/mozscience-datalesson)
 
 ---
 
